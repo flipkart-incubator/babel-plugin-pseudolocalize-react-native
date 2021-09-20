@@ -1,3 +1,5 @@
+![npm](https://img.shields.io/npm/v/babel-plugin-pseudolocalize-react-native?style=plastic)
+
 A Babel Plugin to transform all Text nodes in React Native to their Pseudolocalized versions.
 
 ## What is Pseudolocalization?
