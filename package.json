@@ -1,0 +1,25 @@
+{
+  "name": "babel-plugin-pseudolocalize-react-native",
+  "version": "1.3.0",
+  "description": "A babel plugin to transform text inside Text nodes to their pseudolocalized versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pseudolocalization",
+    "babel",
+    "plugin"
+  ],
+  "author": "Shoaib Khan <shoaib.khan@flipkart.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/template": "^7.10.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.5.5",
+    "@babel/parser": "^7.11.5",
+    "babel-cli": "^6.26.0"
+  }
+}
