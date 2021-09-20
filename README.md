@@ -42,3 +42,9 @@ The plugin provides a default language map inside `PhoneticConstants.js`. If you
 Default: `{"a":"â̬","b":"b̬̈","c":"ĉ̬","d":"d̬̈","e":"ê̬","f":"f̬̈","g":"ĝ̤","h":"ḧ̬","i":"î̬","j":"ĵ̤","k":"k̬̈","l":"l̬̈","m":"m̬̂","n":"n̬̂","o":"ô̬","p":"p̤̂","q":"q̤̂","r":"r̬̂","s":"ŝ̬","t":"ẗ̬","u":"û̬","v":"v̬̂","w":"ŵ̬","x":"x̬̂","y":"ŷ̤","z":"ẑ̬","A":"Ä̬","B":"B̬̈","C":"C̬̈","D":"D̬̈","E":"Ë̬","F":"F̬̈","G":"G̬̈","H":"Ḧ̬","I":"Ï̬","J":"J̬̈","K":"K̬̈","L":"L̬̈","M":"M̬̈","N":"N̬̈","O":"Ö̬","P":"P̬̈","Q":"Q̬̈","R":"R̬̈","S":"S̬̈","T":"T̬̈","U":"Ü̬","V":"V̬̈","X":"Ẍ̬","Y":"Ÿ̬","Z":"Z̬̈"}`
 
 Sample
+
+![Screenshot_1623167875](https://user-images.githubusercontent.com/8079189/133972504-0986ce6f-f581-4f89-a2af-a8d9021ec15c.png)
+
+
+![Screenshot_1623167907](https://user-images.githubusercontent.com/8079189/133972542-47fd4f7a-b7c0-497c-8aa6-8b8d1f60089c.png)
+
